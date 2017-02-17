@@ -1,0 +1,8 @@
+{
+  "repository": "nikitachernov.github.io",
+  "description": "Nikita Chernov",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
